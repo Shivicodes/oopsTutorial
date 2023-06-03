@@ -1,0 +1,84 @@
+                                                                                            OBJECT-OREINTED PROGRAMING  CHEAT-SHEET 
+
+
+1 .    Explain oops? Example.
+2.     What are the internal concepts or building blocks for oops ?
+3.     class vs objects ?
+4.    memory structure  of classes & object?
+5.    Does classes consume memory. state the reason for your answer?
+6.    Driver /client class ?
+7.   Is java purely object oriented language ?
+8.   Abstraction. Example?
+9.  what are different ways by which we can provide abstraction to application in java ?
+10.  what are interfaces and Abstract classes?
+11. what is a need of interface if we have classses?
+12. when should we create interfaces ?
+13. what is the limitations of classes over interfaces?
+14. what do you mean by inheritance .State the various types of inheritance?
+15. super keyword ,extend keyword, this keyword, new keyword?
+16. Method overriding how this is relayed to inheritance?
+17. what should one do if you want to invoke the function of parent class forcefully ?
+18. Object class in java & java.lang package ?
+19. Why multiple inheritance for classes is not there in java?
+20.  what is a need for inheritance ?
+21. what is encapsulation?
+22. what do you mean by term data binding ?
+23. How java is able to enforce encapsulation?
+24.what are access modifiers ? How they enforce the concept of encapsulations?
+25. what are getters and setters? 
+26. what is method overloading?
+27. what is method overriding?
+28. what is operator overloading. Does this concept exist in java?
+29. what is polymorphism?types of polymorphism
+30.  what is essential for  method overriding  ? ----INHERITANCE
+31. compile time polymorphism vs runtime polymorphism?
+32. method-overloading vs method-overriding?
+33. final key word, static keyword?
+34. How can we make changes with in the interface . so that it not creates problem for its implements classes?
+35. can abstract class exist without abstract methods?
+36. what do you mean by default constructor of java? when it is invoked ?
+37. types of constructors ?
+38. does the constructor name must be same as class name .why?
+39. function call stack ?
+40. what do you mean by coupling and cohesion?
+41 what must be true for an application . a low/high coupling rate and low/high cohesion rate ?
+42. what is a difference between tight and loose coupling ?
+43. instanceOf() & toString() functions?
+44. what do you mean by copy constructor?
+45 . lifecycle of object? (initialisation->constructor initialisation->perform operations-->destructors)?
+46. what are destructors?
+47 what are types of variables.
+(local/global/instance/static or class )
+48. can we overload the main method in java ?
+49 . can we inherit the final classes ?
+50. what is diff between constructor and method and functions ?can we overload thhe constructor? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
